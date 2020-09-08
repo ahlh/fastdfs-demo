@@ -3,7 +3,7 @@ package com.lh.boot.fastdfs.demo.service;
 /**
  * FastDfs接口，定义文件的上传、下载以及删除方法
  *
- * @author huanyan2
+ * @author liuhuan
  */
 public interface FastDfsService {
 

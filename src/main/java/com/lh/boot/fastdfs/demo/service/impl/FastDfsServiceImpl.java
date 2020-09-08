@@ -18,7 +18,7 @@ import java.io.InputStream;
 /**
  * FastDfsService实现类，实现FastDfs文件上传和下载
  *
- * @author huanyan2
+ * @author liuhuan
  */
 @Component
 public class FastDfsServiceImpl implements FastDfsService {
