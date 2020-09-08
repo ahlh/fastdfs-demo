@@ -1,2 +1,0 @@
-# fastdfs-demo
-fastdfs-demo
